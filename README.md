@@ -2,6 +2,7 @@
 <img align="right" height="185" style="border-radius:200px;" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif">
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (UNISANTA);
+- 💻 Estudante do curso Técnico em Desenvolvimento de Sistemas (ETEC);
 - 🧪 Formada em Tecnologia em Processos Químicos (FATEC);
 - 💼 Servidora Pública;
 - 🎮 Gamer nas horas vagas.
