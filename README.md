@@ -41,6 +41,6 @@ Front-end | Estudando no momento |
     <!--
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaLima94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     -->
-    <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=SabrinaLima94&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula"/>  
+    <img height="170em" src='https://github-readme-streak-stats.herokuapp.com?user=SabrinaLima94&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=dracula"/>  
 </div>
