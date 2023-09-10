@@ -5,7 +5,7 @@
 <br>
   
 ## Sobre mim
-<img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" align="right" width="300px">
+<img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" align="right" width="250px">
 
 - 📚 Cursando 2º semestre de Análise e Desenvolvimento de Sistemas (UNISANTA);
 - 💻 Cursando 1º módulo do curso Técnico em Desenvolvimento de Sistemas (ETEC);
