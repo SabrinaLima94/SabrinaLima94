@@ -6,7 +6,7 @@
 
 📚 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (UNISANTA);<br>
 💻 Estudante do curso Técnico em Desenvolvimento de Sistemas (ETEC);<br>
-💼 Servidora Pública;<br>
+💼 Servidora Pública Municipal;<br>
 🎮 Gamer nas horas vagas.<br>
 
 <div align="center">
