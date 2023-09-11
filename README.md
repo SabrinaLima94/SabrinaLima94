@@ -1,7 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Oi, tudo bem? Eu sou a Sabrina! </h3>
-<br>
 
-## Sobre mim
+<h3> Sobre mim </h3>
 <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" align="right" width="250px">
 <!-- <img align="right" alt="GIF" src="./code.gif" width="250px" height="160px" /> -->
 
@@ -10,9 +9,9 @@
 - 🧪 Tecnóloga em Processos Químicos (FATEC);
 - 💼 Servidora Pública;
 - 🎮 Gamer nas horas vagas.
+<br>
+<br>
 
-<br>
-<br>
 <div align="center">
  
 ## Tecnologias 
@@ -30,8 +29,6 @@
 
 <div align="center">
 
-
- 
  <a href="https://github.com/SabrinaLima94">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaLima94&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
@@ -41,7 +38,7 @@
 
 <div align="center">
 
-## Contato
+## Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-sabrinadefontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinadefontes/)](https://www.linkedin.com/in/sabrinadefontes/)
 [![Instagram Badge](https://img.shields.io/badge/-sabrinadefontes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sabrinadefontes/)](https://instagram.com/sabrinadefontes)
