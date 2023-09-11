@@ -1,8 +1,8 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Oi, tudo bem? Eu sou a Sabrina! </h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Oi, tudo bem? Eu sou a Sabrina! </h3><br>
+
+<img align="right" src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/a867cdd3-7a4c-4be8-944d-f008af032aba" width="350">
 
 <h3> Sobre mim </h3>
-<img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" align="right" width="250px">
-<!-- <img align="right" alt="GIF" src="./code.gif" width="250px" height="160px" /> -->
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (UNISANTA);
 - 💻 Estudante do curso Técnico em Desenvolvimento de Sistemas (ETEC);
@@ -43,6 +43,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sabrinadefontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrinadefontes/)](https://www.linkedin.com/in/sabrinadefontes/)
 [![Instagram Badge](https://img.shields.io/badge/-sabrinadefontes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sabrinadefontes/)](https://instagram.com/sabrinadefontes)
 [![Gmail Badge](https://img.shields.io/badge/-sabrinadefontes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinadefontes@gmail.com)](mailto:sabrinadefontes@gmail.com)
+
+<!--octocat-->
+<img src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/34734d91-45a9-4bd3-ac5f-dfafeac2df65" align="center" width="200">
 
 <!-- <a href="https://instagram.com/sabrinadefontes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: sabrinadefontes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
