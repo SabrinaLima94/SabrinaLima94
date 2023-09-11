@@ -4,7 +4,7 @@
 
 <h3> Sobre mim </h3>
 
-📚 Estudante do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (UNISANTA);<br>
+📚 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (UNISANTA);<br>
 💻 Estudante do curso Técnico em Desenvolvimento de Sistemas (ETEC);<br>
 💼 Servidora Pública;<br>
 🎮 Gamer nas horas vagas.<br>
