@@ -1,6 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Oi, tudo bem? Eu sou a Sabrina! </h3><br>
 
-<img align="right" src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/a867cdd3-7a4c-4be8-944d-f008af032aba" width="300">
+<img align="right" src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/a867cdd3-7a4c-4be8-944d-f008af032aba" width="300" style="border-radius:50px">
 
 <h3> Sobre mim </h3>
 
@@ -30,7 +30,7 @@
 
  <a href="https://github.com/SabrinaLima94">
   
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=light"/>
+ <img style="border-radius:50px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=light"/>
  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaLima94&show_icons=true&theme=light&include_all_commits=true&count_private=true"/> -->
  <!-- <img height="170em" src='https://github-readme-streak-stats.herokuapp.com?user=SabrinaLima94&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D'/ -->
  
@@ -45,7 +45,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sabrinadefontes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinadefontes@gmail.com)](mailto:sabrinadefontes@gmail.com)
 
 <!--octocat-->
-<img src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/34734d91-45a9-4bd3-ac5f-dfafeac2df65" align="center" width="150">
+<img src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/34734d91-45a9-4bd3-ac5f-dfafeac2df65" align="center" width="150" style="border-radius:50px">
 
 <!-- <a href="https://instagram.com/sabrinadefontes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: sabrinadefontes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
