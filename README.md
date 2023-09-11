@@ -30,10 +30,11 @@
 <div align="center">
 
  <a href="https://github.com/SabrinaLima94">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaLima94&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=light"/> 
-   <!-- <img height="170em" src='https://github-readme-streak-stats.herokuapp.com?user=SabrinaLima94&theme=cobalt&hide_border=false&date_format=j%20M%5B%20Y%5D'/ -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaLima94&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  
+   <!-- <img height="170em" src='https://github-readme-streak-stats.herokuapp.com?user=SabrinaLima94&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D'/ -->
 </div>
 
 <div align="center">
