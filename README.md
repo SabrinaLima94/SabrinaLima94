@@ -1,6 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Oi, tudo bem? Eu sou a Sabrina! </h3><br>
 
-<img align="right" src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/a867cdd3-7a4c-4be8-944d-f008af032aba" width="350">
+<img align="right" src="https://github.com/SabrinaLima94/SabrinaLima94/assets/112826048/a867cdd3-7a4c-4be8-944d-f008af032aba" width="320">
 
 <h3> Sobre mim </h3>
 
