@@ -24,7 +24,7 @@
 
  <a href="https://github.com/SabrinaLima94">
   
- <img style="border-radius:50px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=light"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaLima94&layout=donut)](https://github.com/SabrinaLima94/github-readme-stats)
  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SabrinaLima94&show_icons=true&theme=light&include_all_commits=true&count_private=true"/> -->
 <!-- <img height="160em" src='https://github-readme-streak-stats.herokuapp.com?user=SabrinaLima94&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D'/> -->
  
